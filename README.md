@@ -16,7 +16,11 @@ If you want to contribute, please contact the Author:
 
     Hey there! I am Vipan kumar, a passionate coder and developer from Hoshiarpur, punjab.
 
-    I have a total of 1.5 years of experience in designing and building web applications. I believe that I can reduce human efforts and make people’s lives easier by developing advanced user-friendly products. I like to develop products that require very minimal human interaction. With the same mindset I have built softwares in my recent organization just for my personal use to reduce the manual labor. My key areas of interests include System designing, Data Management, Event based architecture, etc.
+    I have a total of 1.5 years of experience in designing and building web applications. I believe that I can 
+    reduce human efforts and make people’s lives easier by developing advanced user-friendly products. I like to 
+    develop products that require very minimal human interaction. With the same mindset I have built softwares in 
+    my recent organization just for my personal use to reduce the manual labor. My key areas of interests include 
+    System designing, Data Management, Event based architecture, etc.
 
     [LinkedIn 💼](https://www.linkedin.com/in/vipank/")
 
